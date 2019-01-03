@@ -4,6 +4,12 @@ menu:
   主页: /
   # 随笔: /tags/随笔/
 
+# menu:
+#  主页: /
+#  文章分类: /categories
+#  archives: /archives
+#  标签: /tags
+
 # SubNav
 subnav:
   github: "#"
